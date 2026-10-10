@@ -71,7 +71,7 @@ export const SlideContent: React.FC<Props> = ({
                 <div className="bg-slate-950/70 p-4 rounded-2xl border border-slate-800">
                   <div className="text-[11px] text-slate-400 flex items-center gap-1.5 font-medium">
                     <BookOpen className="w-3.5 h-3.5 text-teal-400" />
-                    Program Studi &amp; Kelas
+                    Prodi &amp; Konsentrasi
                   </div>
                   <div className="text-sm font-bold text-white mt-1">{profile.prodi}</div>
                   <div className="text-xs text-slate-400 mt-0.5">{profile.course}</div>

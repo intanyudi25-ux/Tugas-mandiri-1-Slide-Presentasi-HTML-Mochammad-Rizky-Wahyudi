@@ -23,6 +23,9 @@ export default function App() {
           parsed.nim = '2422416853';
           parsed.githubUrl = 'https://github.com/mrizkywahyudi/cloudcart-hub-paas';
         }
+        if (!parsed.prodi || parsed.prodi === 'Teknik Informatika / Sistem Informasi') {
+          parsed.prodi = 'Teknik Informatika / Software Engineering';
+        }
         if (parsed.course && parsed.course.includes('Pertemuan 15')) {
           parsed.course = parsed.course.replace(/\s*-\s*Pertemuan 15/gi, '').replace(/Pertemuan 15/gi, '').trim();
         }

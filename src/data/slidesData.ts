@@ -3,7 +3,7 @@ import { SlideItem, TroubleshootingItem, PromptLogItem, StudentProfile } from '.
 export const initialStudentProfile: StudentProfile = {
   name: "Moch Rizky Wahyudi",
   nim: "2422416853",
-  prodi: "Teknik Informatika / Sistem Informasi",
+  prodi: "Teknik Informatika / Software Engineering",
   university: "Fakultas Ilmu Komputer & Teknologi Informasi",
   course: "Cloud Computing (2 SKS)",
   lecturer: "Dosen Pengampu Mata Kuliah Cloud Computing",
