@@ -7,7 +7,7 @@ export const initialStudentProfile: StudentProfile = {
   university: "Fakultas Ilmu Komputer & Teknologi Informasi",
   course: "Cloud Computing (2 SKS)",
   lecturer: "Dosen Pengampu Mata Kuliah Cloud Computing",
-  githubUrl: "https://github.com/mrizkywahyudi/cloudcart-hub-paas",
+  githubUrl: "https://github.com/intanyudi25-ux",
   netlifyUrl: "https://cloudcart-hub-demo.netlify.app",
   demoUrl: "https://cloudcart-hub-demo.netlify.app/dashboard.html",
 };

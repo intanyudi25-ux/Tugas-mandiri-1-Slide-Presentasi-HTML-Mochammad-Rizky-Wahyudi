@@ -21,8 +21,8 @@ export default function App() {
         if (parsed.name === 'Intan Yudi Pratama' || !parsed.name) {
           parsed.name = 'Moch Rizky Wahyudi';
           parsed.nim = '2422416853';
-          parsed.githubUrl = 'https://github.com/mrizkywahyudi/cloudcart-hub-paas';
         }
+        parsed.githubUrl = 'https://github.com/intanyudi25-ux';
         if (!parsed.prodi || parsed.prodi === 'Teknik Informatika / Sistem Informasi') {
           parsed.prodi = 'Teknik Informatika / Software Engineering';
         }
