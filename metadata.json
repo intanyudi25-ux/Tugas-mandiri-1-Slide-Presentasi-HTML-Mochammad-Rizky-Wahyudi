@@ -1,0 +1,6 @@
+{
+  "name": "CloudCart Hub - Slide Presentasi & FinOps Refleksi AI",
+  "description": "Platform Slide Presentasi Interaktif Arsitektur Cloud, Analisis FinOps & Refleksi AI untuk Proyek CloudCart Hub (Cloud Computing 2 SKS)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
